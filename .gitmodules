@@ -2,3 +2,6 @@
 [submodule "turbin3-prereqs-ts-rs"]
 	path = turbin3-prereqs-ts-rs
 	url = https://github.com/wellingtonmb88/turbin3-prereqs-ts-rs
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/wellingtonmb88/solana-starter
