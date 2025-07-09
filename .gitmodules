@@ -5,3 +5,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/wellingtonmb88/solana-starter
+[submodule "anchor-vault-q3"]
+	path = anchor-vault-q3
+	url = https://github.com/wellingtonmb88/anchor-vault-q3
