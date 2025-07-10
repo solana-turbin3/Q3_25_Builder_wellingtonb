@@ -8,3 +8,6 @@
 [submodule "anchor-vault-q3"]
 	path = anchor-vault-q3
 	url = https://github.com/wellingtonmb88/anchor-vault-q3
+[submodule "anchor-escrow-q3"]
+	path = anchor-escrow-q3
+	url = https://github.com/wellingtonmb88/anchor-escrow-q3
