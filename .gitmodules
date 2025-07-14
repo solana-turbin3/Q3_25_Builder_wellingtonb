@@ -11,3 +11,6 @@
 [submodule "anchor-escrow-q3"]
 	path = anchor-escrow-q3
 	url = https://github.com/wellingtonmb88/anchor-escrow-q3
+[submodule "anchor-amm-q3"]
+	path = anchor-amm-q3
+	url = https://github.com/wellingtonmb88/anchor-amm-q3
