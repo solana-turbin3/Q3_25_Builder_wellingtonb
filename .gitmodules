@@ -14,3 +14,9 @@
 [submodule "anchor-amm-q3"]
 	path = anchor-amm-q3
 	url = https://github.com/wellingtonmb88/anchor-amm-q3
+[submodule "anchor-nft-marketplace"]
+	path = anchor-nft-marketplace
+	url = https://github.com/wellingtonmb88/anchor-nft-marketplace
+[submodule "anchor-nft-staking"]
+	path = anchor-nft-staking
+	url = https://github.com/wellingtonmb88/anchor-nft-staking
